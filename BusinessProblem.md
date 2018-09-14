@@ -4,11 +4,15 @@
 
 ## Business Problem Statement
 
-Business success/failure depends on a vast spectrum of factors. Enterpreneurs may want to find an optimal place for their new business venture. Such an optimal place has to consider various indicator that will suggest long and prosperous existance for any new business. Successful businesses help the economy grow, lower the unemployment, and reduce crime. The city of Toronto wants to offer such an online service where the enterpreneurs can receive all the necessary information that will help them in decising on the location for their new ventures. 
+Business success/failure depends on a vast spectrum of economics and demographics factors. Enterpreneurs may want to find an optimal venue and geographic location for their new business venture. Such an optimal venue/place selection process has to consider various indicators that may deliver long and prosperous existance for any new business. 
+
+Successful businesses help the economy grow, lower the unemployment, and reduce crime. The multicultural city of Toronto wants to offer such an online service where the enterpreneurs can receive all the necessary information that will help them in picking the location for their new ventures based on their desire to support a specific ethnic community of Toronto.
 
 ### Subject: Toronto Enterpreneurial 
 
-The city of Toronto has approached our company to help them develop a service that helps the enterpreneurs who want to establish new businesses in the city of Toronto. This service will help find ideal locations for the new businesses based on such factors as business venue density in the area, the demographics in the area, the proximity to other business venues.
+The city of Toronto has approached our company to help them develop a service that helps the enterpreneurs who want to establish new businesses in the city of Toronto select an ideal business location based on the ethnic communities they want to be a part of. 
+
+This service will help find an ideal location for a new business based on such factors as business venue, population density in the area, the demographics in the area, average income, proximity to other business venues.
 
 ### Audience: Business Enterpreneurs seeking to establish new businesses in the city of Toronto
 
@@ -18,7 +22,7 @@ Having a tool that can help the enterpreneurs to choose the right location for t
 
 The solution will leverage the Foursquare location data as well as the demographics open dataset available from Wikipedia.
 
-In order to advise the enterpreneurs on a good location, we will consider the density of similar businesses in the desired area/neighbourhood and the population density in the same area.
+In order to advise the enterpreneurs on a good location, we will consider the density (frequency) of similar business venues in various parts of Toronto that cator to preferred ethnic area/neighbourhoods, average income, population, population density, population growth rate, spoken languages in the same area.
 
 
 
